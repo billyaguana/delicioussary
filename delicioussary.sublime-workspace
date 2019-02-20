@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"text-",
+				"text-right"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n  <title>Hello, world!</title>  \n  <!-- Font Awesome -->\n  <link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.6.1/css/all.css\">\n  <!-- Bootstrap core CSS -->\n  <link rel=\"stylesheet\" href=\"assets/css/bootstrap.min.css\">\n  <!-- Material Design Bootstrap -->\n  <link href=\"assets/css/mdb.min.css\" rel=\"stylesheet\">  \n  <!-- Developer's CSS -->\n  <link rel=\"stylesheet\" href=\"style.css\">    \n  <!-- cheat sheet at https://mdbootstrap.com/docs/jquery/ -->\n</head>\n\n<body style=\"\">\n  <header class=\"container\">\n    <nav class=\"navbar navbar-expand-lg\">\n      <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarTogglerDemo03\" aria-controls=\"navbarTogglerDemo03\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n        <span class=\"navbar-toggler-icon\"></span>\n      </button>\n      <a class=\"navbar-brand\" href=\"#\">Navbar</a>\n\n      <div class=\"collapse navbar-collapse\" id=\"navbarTogglerDemo03\">\n        <ul class=\"navbar-nav mr-auto mt-2 mt-lg-0\">\n          <li class=\"nav-item active\">\n            <a class=\"nav-link\" href=\"#\">Home <span class=\"sr-only\">(current)</span></a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link\" href=\"#\">Link</a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link disabled\" href=\"#\">Disabled</a>\n          </li>\n        </ul>\n        <form class=\"form-inline my-2 my-lg-0\">\n          <input class=\"form-control mr-sm-2\" type=\"search\" placeholder=\"Search\" aria-label=\"Search\">\n          <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\n        </form>\n      </div>\n    </nav>\n   </header> \n\n\n\n<!-- Optional JavaScript -->\n<!-- jQuery first, then Popper.js, then Bootstrap JS -->\n<!-- Online Source : src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" -->\n<script src=\"assets/js/jquery-3.3.1.min.js\"></script>\n<script src=\"assets/js/popper.min.js\"></script>\n<script src=\"assets/js/bootstrap.min.js\"></script>\n<script src=\"assets/js/mdb.min.js\"></script>\n<script src=\"assets/lib/fontawesome5/js/all.min.js\"></script>\n</script>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 2325,
+			"file_write_time": 131950409161748450,
+			"settings":
+			{
+				"buffer_size": 2277,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components"
+	],
+	"file_history":
+	[
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyMDBBuilder/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Tutorials/delecioussary/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/elements_3.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/elements_1.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Library jQuery/scroller/sly-master/test.html",
+		"/C/wamp64/www/billyaguana/wp-content/themes/creativecat/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Library jQuery/scroller/sly-master/Horizontal examples - Sly_files/horizontal.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Library jQuery/scroller/sly-master/Horizontal examples - Sly_files/horizontal.js",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/elements_2.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Library jQuery/scroller/sly-master/Horizontal examples - Sly_files/ospb.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyMDBBuilder/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/starter-template/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/template-signin.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/tooltip.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/sign-in/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/assets/template/js/modal.js",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/assets/template/js/carousel.js",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/sticky-footer-navbar/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/sticky-footer-navbar/sticky-footer-navbar.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/sticky-footer/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/assets/template/css/grid.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/components/sticky-footer.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/sticky-footer/sticky-footer.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/tooltip-viewport/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/tooltip-viewport/tooltip-viewport.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap-4.1.3/Templates/tooltip-viewport/tooltip-viewport.js",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyMDBBuilder/My MDB Builder.sublime-project",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/menus/reactive menu/back on top/console.html",
+		"/C/wamp64/www/billyaguana/wp-content/themes/creativecat/assets/css/style-retro.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Test/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyMDBBuilder/element_1.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/menus/reactive menu/back on top/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/sticky-element-without-jumping/sticky-element-without-jumping/css/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/Fixed-Morphing-App-Navigation-Droplet-Menu/Fixed-Morphing-App-Navigation-Droplet-Menu/styles.css",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/Fixed-Morphing-App-Navigation-Droplet-Menu/Fixed-Morphing-App-Navigation-Droplet-Menu/app.js",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/Fixed-Morphing-App-Navigation-Droplet-Menu/Fixed-Morphing-App-Navigation-Droplet-Menu/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/sticky-element-without-jumping/sticky-element-without-jumping/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/modules/elements_1.html",
+		"/C/Users/BoZz-B/Desktop/deep web/reactive menu/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/cheatsheet/elements_1.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Builders/MyBSBuilder/cheatsheet/elements_2.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Book of Builder/BS cheatsheet by hackerthemes/index..html",
+		"/C/Users/BoZz-B/Desktop/deep web/Book of Builder/BS cheatsheet by creative-tim/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Book of Builder/BS cheatsheet by hackerthemes/assets/48OJbbI0DfE.html",
+		"/C/Users/BoZz-B/Desktop/deep web/Book of Builder/BS cheatsheet by hackerthemes/assets/cheatsheet.css",
+		"/C/Users/BoZz-B/Desktop/deep web/Book of Builder/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyBSBuilder/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/MyMDBBuilder/style.css",
+		"/C/Users/BoZz-B/Desktop/deep web/MyMDBBuilder/assets/images/cheatsheet/index..html",
+		"/C/Users/BoZz-B/Desktop/deep web/Library/Bootstrap/bootstrap4-cheatsheet-master/bootstrap4-cheatsheet-master/index.html",
+		"/C/Users/BoZz-B/Downloads/bootstrap4-cheatsheet-master/bootstrap4-cheatsheet-master/index.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyBSBuilder/cheatsheet/template-carousel.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyBSBuilder/cheatsheet/elements_2.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyMDBBuilder/element_1.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyBuilder/template-carousel.html",
+		"/C/Users/BoZz-B/Desktop/deep web/MyBuilder/template-cover.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tooltip"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "delicioussary.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\BoZz-B\\Desktop\\deep web\\MyMDBBuilder\\My MDB Builder.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
