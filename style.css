@@ -324,7 +324,7 @@ section a, .bottom-extra a { text-decoration: underline; }
   color: #D3A55D;
  } 
 
-.bottom-extra { padding-bottom: 20px; }
+.bottom-extra { padding-bottom: 35px; }
 .bottom-extra h2 { margin-bottom: 12px;  }
  
 .testimonials, .testimonials p { font-size: 11px; }
