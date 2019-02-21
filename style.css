@@ -329,7 +329,6 @@ section a, .bottom-extra a { text-decoration: underline; }
  
 .testimonials, .testimonials p { font-size: 11px; }
 .testimonials p { 
-  margin-right: 5px;
   line-height: 140%;
   margin-bottom: 5px; 
 }
