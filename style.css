@@ -68,8 +68,6 @@ header .container {
   border-radius: 25px;   
 }
 
-.navbar-light, .bg-light { background-color: #FCFCFC;  }
-
 .navbar { padding: 0 1rem; }
 
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link { 
