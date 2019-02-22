@@ -50,7 +50,7 @@ header {
   background-color: #FFE6BE;
 
   padding-top: 60px;
-  margin-bottom: 55px;
+  margin-bottom: 59px;
 } 
 
 h2 { color: #6C4925; }
@@ -176,17 +176,17 @@ header .carousel ul { padding-left: 0px;   }
 
 }
 
-.slider { margin-bottom: 55px; }
-.slider h2 { margin-bottom: 15px; }
+.scroller { margin-bottom: 55px; }
+.scroller h2 { margin-bottom: 13px; }
 
-.bottom-extra h2, .slider h2, section h2, .promo .add-cart strong { 
+.bottom-extra h2, .scroller h2, section h2, .promo .add-cart strong { 
   font-family: 'Oswald', sans-serif;  
   font-size: 17px;
   font-weight: bold;
 }
 
 
-.slider h2 span {
+.scroller h2 span {
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
   color: #D7B796;
@@ -194,37 +194,37 @@ header .carousel ul { padding-left: 0px;   }
   margin-left: 8px;
 }
 
-.slider .frame { 
+.scroller .frame { 
   margin-bottom: 20px;
 }
 
-.slider .scrollbar { 
+.scroller .scrollbar { 
   margin: 0 200px;
   height: 6px;
   background-color: #FFDCA2;
   border-radius: 6px; 
 }
 
-.slider .scrollbar .handle {
+.scroller .scrollbar .handle {
   background-color: #ECC991;
   background-image: url(images/handle.png);
   background-position: center;
   background-repeat: no-repeat; 
 }  
 
-.slider .frame ul li { 
+.scroller .frame ul li { 
   text-align: center;  
   color: #936C42;
 }
-.slider .frame ul li span, 
-.slider .frame .item-name { font-size: 13px; }
-.slider .frame ul li p, 
-.slider .frame .item-desc { 
+.scroller .frame ul li span, 
+.scroller .frame .item-name { font-size: 13px; }
+.scroller .frame ul li p, 
+.scroller .frame .item-desc { 
   font-size: 11px;
   margin-bottom: 0; 
 }
 
-section { margin-bottom: 7px; }
+section { margin-bottom: 9px; }
 section h2 { margin-bottom: 7px;  }
 section p { margin-bottom: 20px;  } 
 section a, .bottom-extra a { text-decoration: underline; }
@@ -378,7 +378,7 @@ section a, .bottom-extra a { text-decoration: underline; }
  footer { 
   background: url(images/bottom-shadow.png) top center no-repeat;
   color: #B7916B;
-  padding: 53px 0 20px 0;
+  padding: 53px 0 50px 0;
  }
 
  footer .copyright { float: left; }
@@ -412,7 +412,7 @@ footer .social ul li a {
 /* Style */
 /* Reference */
 @media screen and (max-width: 576px)  { /* Small devices (landscape phones, 576px and up) */ 
-  .slider .scrollbar {  margin: 0 50px; }
+  .scroller .scrollbar {  margin: 0 50px; }
   header .carousel-indicators { display: none; }
   header .carousel { margin-bottom: 20px;  }
   header .carousel-caption {
@@ -448,5 +448,5 @@ footer .social ul li a {
 /* custom conditions */
 /* card column */
 @media screen and (min-width: 576px) and (max-width: 990px) {  
-  .slider .scrollbar {  margin: 0 100px; }
+  .scroller .scrollbar {  margin: 0 100px; }
 }
