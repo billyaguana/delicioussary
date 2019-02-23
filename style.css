@@ -443,6 +443,11 @@ footer .social ul li a {
   .container { padding: 0 100px; }
 }
 
+/* 
+If your Resolution is lesser than 1200 and want to view it as px perfect
+@media screen and (min-width: 1023px)  {  .container { width:940px; }  } 
+*/
+
 /* custom conditions */
 /* card column */
 @media screen and (min-width: 576px) and (max-width: 990px) {  
