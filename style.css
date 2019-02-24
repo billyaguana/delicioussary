@@ -326,7 +326,7 @@ section a, .bottom-extra a { text-decoration: underline; }
 .bottom-extra h2 { margin-bottom: 12px;  }
  
 .testimonials, .testimonials p { font-size: 11px; }
-.testimonials .text { padding-right: 5px; }
+.testimonials .text { padding-right: 10px; }
 .testimonials p { 
   line-height: 140%;
   margin-bottom: 5px; 
