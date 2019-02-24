@@ -326,12 +326,16 @@ section a, .bottom-extra a { text-decoration: underline; }
 .bottom-extra h2 { margin-bottom: 12px;  }
  
 .testimonials, .testimonials p { font-size: 11px; }
+.testimonials .text { padding-right: 5px; }
 .testimonials p { 
   line-height: 140%;
   margin-bottom: 5px; 
 }
 .testimonials span { color: #987046; }
-.testimonials .quote { margin-bottom: 15px; padding-right: 12px;  }
+.testimonials .quote { 
+  margin-bottom: 15px; 
+  padding-right: 10px;  
+}
 
 .newsletter p { margin-bottom: 10px; }
 
